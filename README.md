@@ -4,7 +4,7 @@
 
 1. Install eslint: **npm install -D eslint**
 2. Init ESLint (choose Standard guide): **npx eslint --init**
-3. Install **ESLint frop Microsoft** extension, to see errors in realtime
+3. Install **ESLint from Microsoft** extension, to see errors in realtime
 4. Create file **.eslintignore** to exclude automatically generated js/jsx/ts/tsx files (eg: dist)
 
 ### Usage
